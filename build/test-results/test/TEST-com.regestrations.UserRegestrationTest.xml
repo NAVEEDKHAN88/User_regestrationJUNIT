@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.regestrations.UserRegestrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-25T11:48:21" hostname="DESKTOP-IL2UTCG" time="0.028">
+  <properties/>
+  <testcase name="Email_WhenInValid_ShouldReturnFalse()" classname="com.regestrations.UserRegestrationTest" time="0.028"/>
+  <system-out><![CDATA[please enter valid email ID 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
